@@ -82,7 +82,6 @@ footer p {
     margin-bottom: 5px;
 }
 
-/* Responsividade para telas até 768px (tablets e celulares) */
 @media (max-width: 768px) {
     body {
         padding: 15px;
